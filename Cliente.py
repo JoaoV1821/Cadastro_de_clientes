@@ -67,4 +67,4 @@ class Cliente:
         else:
             raise ValueError('CPF inválido')
 
-'''Módulo responsável pela definição e validação das informações o cliente'''
+'''Módulo responsável pela definição e validação das informações do cliente'''

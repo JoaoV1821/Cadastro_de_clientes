@@ -1,0 +1,22 @@
+{
+    "clientes": [
+        {
+            "_Cliente__nome": "M\u00e1rio Andrade",
+            "_Cliente__numero": "(66) 99823-1485",
+            "_Cliente__email": "mario_andrade6917@mxclip.com",
+            "_Cliente__cpf": "627.581.360-15"
+        },
+        {
+            "_Cliente__nome": "Maria Das Flores",
+            "_Cliente__numero": "(12) 98901-4857",
+            "_Cliente__email": "mariaflores7890@mxclip.com",
+            "_Cliente__cpf": "735.751.220-75"
+        },
+        {
+            "_Cliente__nome": "Joaquim Lopes",
+            "_Cliente__numero": "(42) 94028-9416",
+            "_Cliente__email": "joaquim4690@mxclip.com",
+            "_Cliente__cpf": "953.610.650-72"
+        }
+    ]
+}

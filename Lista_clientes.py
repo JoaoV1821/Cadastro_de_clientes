@@ -33,4 +33,4 @@ class Lista_clientes:
             lista.append(list(cliente.values()))
         return lista
 
-    '''Módulo referente à listagem de dos clientes'''
+    '''Módulo referente à listagem dos clientes'''
